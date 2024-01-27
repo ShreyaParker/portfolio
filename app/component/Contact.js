@@ -89,7 +89,7 @@ const Contact = () => {
                 <div className="w-full flex justify-center">
                     <button
                         type="submit"
-                        className="bg-purple-400 text-white py-3  my-5 w-3/12  px-4 rounded-3xl hover:bg-blue-600"
+                        className="bg-purple-400 text-white py-3  my-5 w-4/12 md:w-3/12   px-4 rounded-3xl hover:bg-blue-600"
                     >
                         Submit
                     </button>
